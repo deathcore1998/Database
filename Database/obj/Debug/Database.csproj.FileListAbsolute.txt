@@ -1,0 +1,60 @@
+D:\gg1\gg2\gg3\учеба\C#\Database\Database\obj\Debug\Database.csprojAssemblyReference.cache
+D:\gg1\gg2\gg3\учеба\C#\Database\Database\obj\Debug\Database.exe.config
+D:\gg1\gg2\gg3\учеба\C#\Database\Database\obj\Debug\Database.CreatureScore.resources
+D:\gg1\gg2\gg3\учеба\C#\Database\Database\obj\Debug\Database.Properties.Resources.resources
+D:\gg1\gg2\gg3\учеба\C#\Database\Database\obj\Debug\Database.RegistrationField.resources
+D:\gg1\gg2\gg3\учеба\C#\Database\Database\obj\Debug\Database.csproj.GenerateResource.cache
+D:\gg1\gg2\gg3\учеба\C#\Database\Database\obj\Debug\Database.csproj.CoreCompileInputs.cache
+D:\gg1\gg2\gg3\учеба\C#\Database\Database\bin\Debug\Database.exe.config
+D:\gg1\gg2\gg3\учеба\C#\Database\Database\bin\Debug\Database.exe
+D:\gg1\gg2\gg3\учеба\C#\Database\Database\bin\Debug\Database.pdb
+D:\gg1\gg2\gg3\учеба\C#\Database\Database\bin\Debug\MySql.Data.dll
+D:\gg1\gg2\gg3\учеба\C#\Database\Database\bin\Debug\Google.Protobuf.dll
+D:\gg1\gg2\gg3\учеба\C#\Database\Database\bin\Debug\ZstdNet.dll
+D:\gg1\gg2\gg3\учеба\C#\Database\Database\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\gg1\gg2\gg3\учеба\C#\Database\Database\bin\Debug\BouncyCastle.Crypto.dll
+D:\gg1\gg2\gg3\учеба\C#\Database\Database\bin\Debug\Ubiety.Dns.Core.dll
+D:\gg1\gg2\gg3\учеба\C#\Database\Database\bin\Debug\System.Memory.dll
+D:\gg1\gg2\gg3\учеба\C#\Database\Database\bin\Debug\System.Buffers.dll
+D:\gg1\gg2\gg3\учеба\C#\Database\Database\bin\Debug\K4os.Compression.LZ4.dll
+D:\gg1\gg2\gg3\учеба\C#\Database\Database\bin\Debug\K4os.Hash.xxHash.dll
+D:\gg1\gg2\gg3\учеба\C#\Database\Database\bin\Debug\System.Numerics.Vectors.dll
+D:\gg1\gg2\gg3\учеба\C#\Database\Database\bin\Debug\MySql.Data.xml
+D:\gg1\gg2\gg3\учеба\C#\Database\Database\obj\Debug\Database.csproj.CopyComplete
+D:\gg1\gg2\gg3\учеба\C#\Database\Database\obj\Debug\Database.exe
+D:\gg1\gg2\gg3\учеба\C#\Database\Database\obj\Debug\Database.pdb
+C:\Users\Deathcore1998\OneDrive\6 семестр\Сетевые технологии\ЛР 3\Database\Database\obj\Debug\Database.csproj.AssemblyReference.cache
+C:\Users\Deathcore1998\OneDrive\6 семестр\Сетевые технологии\ЛР 3\Database\Database\obj\Debug\Database.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deathcore1998\OneDrive\6 семестр\Сетевые технологии\ЛР 3\Database\Database\obj\Debug\Database.exe.config
+C:\Users\Deathcore1998\OneDrive\6 семестр\Сетевые технологии\ЛР 3\Database\Database\obj\Debug\Database.CreatureScore.resources
+C:\Users\Deathcore1998\OneDrive\6 семестр\Сетевые технологии\ЛР 3\Database\Database\obj\Debug\Database.Properties.Resources.resources
+C:\Users\Deathcore1998\OneDrive\6 семестр\Сетевые технологии\ЛР 3\Database\Database\obj\Debug\Database.RegistrationField.resources
+C:\Users\Deathcore1998\OneDrive\6 семестр\Сетевые технологии\ЛР 3\Database\Database\obj\Debug\Database.csproj.GenerateResource.cache
+C:\Users\Deathcore1998\OneDrive\6 семестр\Сетевые технологии\ЛР 3\Database\Database\obj\Debug\Database.csproj.CoreCompileInputs.cache
+C:\Users\Deathcore1998\OneDrive\6 семестр\Сетевые технологии\ЛР 3\Database\Database\obj\Debug\Database.exe
+C:\Users\Deathcore1998\OneDrive\6 семестр\Сетевые технологии\ЛР 3\Database\Database\obj\Debug\Database.pdb
+F:\какое то портфолио\Database\Database\bin\Debug\Database.exe.config
+F:\какое то портфолио\Database\Database\bin\Debug\Database.exe
+F:\какое то портфолио\Database\Database\bin\Debug\Database.pdb
+F:\какое то портфолио\Database\Database\bin\Debug\Google.Protobuf.dll
+F:\какое то портфолио\Database\Database\bin\Debug\ZstdNet.dll
+F:\какое то портфолио\Database\Database\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\какое то портфолио\Database\Database\bin\Debug\BouncyCastle.Crypto.dll
+F:\какое то портфолио\Database\Database\bin\Debug\Ubiety.Dns.Core.dll
+F:\какое то портфолио\Database\Database\bin\Debug\System.Memory.dll
+F:\какое то портфолио\Database\Database\bin\Debug\System.Buffers.dll
+F:\какое то портфолио\Database\Database\bin\Debug\K4os.Compression.LZ4.dll
+F:\какое то портфолио\Database\Database\bin\Debug\K4os.Hash.xxHash.dll
+F:\какое то портфолио\Database\Database\bin\Debug\System.Numerics.Vectors.dll
+F:\какое то портфолио\Database\Database\bin\Debug\MySql.Data.xml
+F:\какое то портфолио\Database\Database\obj\Debug\Database.csproj.AssemblyReference.cache
+F:\какое то портфолио\Database\Database\obj\Debug\Database.csproj.SuggestedBindingRedirects.cache
+F:\какое то портфолио\Database\Database\obj\Debug\Database.exe.config
+F:\какое то портфолио\Database\Database\obj\Debug\Database.CreatureScore.resources
+F:\какое то портфолио\Database\Database\obj\Debug\Database.Properties.Resources.resources
+F:\какое то портфолио\Database\Database\obj\Debug\Database.RegistrationField.resources
+F:\какое то портфолио\Database\Database\obj\Debug\Database.csproj.GenerateResource.cache
+F:\какое то портфолио\Database\Database\obj\Debug\Database.csproj.CoreCompileInputs.cache
+F:\какое то портфолио\Database\Database\obj\Debug\Database.csproj.CopyComplete
+F:\какое то портфолио\Database\Database\obj\Debug\Database.exe
+F:\какое то портфолио\Database\Database\obj\Debug\Database.pdb
